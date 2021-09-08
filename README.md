@@ -8,7 +8,7 @@ You need to set up an event listener, so that when you click the button "Calulat
 
 ```
     addPizzas(7);
-```.
+```
 
 Then, you will need to complete the `addPizzas()` function, so that it will create a `.pizza` div and append it to the `#pizzas` div for each pizza needed. (see the TODO comments for more information).
 
