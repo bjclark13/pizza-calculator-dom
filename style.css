@@ -1,0 +1,16 @@
+.pizza {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 8px solid burlywood;
+  background-color: gold;
+}
+
+#pizzas {
+  padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-around;
+  box-sizing: border-box;
+}
