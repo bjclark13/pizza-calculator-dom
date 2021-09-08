@@ -10,12 +10,19 @@
   function addPizzas(people) {
     const n = calculatePizzasPerPerson(people);
     // TODO
+
     // create n divs (n is amount of pizzas)
+    // for each pizza
+    // create a new div
+    // add a class of "pizza"
+
     // and append them to the div with an
     // id of pizza
   }
 
-  document.querySelector("#calculate-pizzas").addEventListener(() => {
-    addPizzas(5);
-  });
+  // TODO
+  // when I click this button, it should call
+  //  addPizzas(7), to calculate how many pizzas 
+  // are needed for 7 people
+  const button = document.querySelector("#calculate-pizzas");
 }
