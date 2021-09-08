@@ -6,7 +6,7 @@ You are given a function that has an algorithm for how many pizzas to order per 
 
 You need to set up an event listener, so that when you click the button "Calulate Total Pizzas for 7 People", then you it will call
 
-````
+```
     addPizzas(7);
 ```.
 
